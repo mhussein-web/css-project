@@ -1,0 +1,56 @@
+
+#random{
+    text-align: center;   
+}
+
+.button{
+    width: 50px;
+    height: 50px;
+    border: 15px solid #3882F6;
+    border-width: 2px;
+    border-radius: 8px;
+    padding: 50px;
+    margin: 10px;
+}
+
+#buttonbox{
+    display: flex;
+    justify-content: center;
+}
+
+
+/* ******************************************************************** */
+
+#CTA{
+    background-color: #3882F6;
+    color: white;
+    padding: 50px;
+    margin: 50px;
+}
+
+
+#thirdblock{
+    background-color: #E5E7EB;
+    margin-top: 50px;
+    padding: 50px 0px;
+    width: 100%;
+    text-align: center;
+    
+}
+
+#third{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+#inspiring{
+    margin-left: 75%;
+    width: 50%;
+}
+
+#thor{
+    text-align: right;
+    width: 50%;
+    margin-left: 69%;
+}
